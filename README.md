@@ -23,3 +23,6 @@ GEMINI_API_KEY=あなたのAPIキー
 ## スクリプトについて
 - `generate_long_video.py`: 脚本を配列で用意し、複数の短尺動画を生成するスクリプト。
 - `generate_short_video.py`: 単一の短尺動画を生成するスクリプト。
+
+## 更新情報
+- Embedding処理を追加しました。
