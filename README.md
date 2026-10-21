@@ -8,7 +8,7 @@
 - 30秒程度の動画を作るためには、一度に生成することはできず、**脚本を配列で用意して短尺動画をいくつか作る必要があります**。
 - **APIが頻繁に落ちる**ため、生成プロセスが途中で失敗しやすくなっています。
 
-https://youtu.be/Ojob-NSOqrk
+[![デモ動画を見る](https://img.youtube.com/vi/Ojob-NSOqrk/hqdefault.jpg)](https://youtu.be/Ojob-NSOqrk)
 
 ## 準備
 
